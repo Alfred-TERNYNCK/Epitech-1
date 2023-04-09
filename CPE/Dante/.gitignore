@@ -1,0 +1,6 @@
+*.log
+*.a
+*.o
+*.out
+generator/generator
+solver/solver
