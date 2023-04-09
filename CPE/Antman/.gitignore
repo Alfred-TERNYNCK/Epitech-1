@@ -1,0 +1,15 @@
+*.log
+*.a
+*.o
+*.out
+antman/antman
+giantman/giantman
+test
+compressed.data
+uncompressed.data
+*Zone.Identifier
+*.swp
+*.swo
+.vscode/
+wiki
+explanation
