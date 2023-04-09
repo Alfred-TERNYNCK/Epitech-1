@@ -1,0 +1,4 @@
+.vscode/
+*.spec
+build/
+101pong
